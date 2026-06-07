@@ -1,0 +1,6 @@
+[submodule "ACTIVIDAD_PARTE_1"]
+	path = ACTIVIDAD_PARTE_1
+	url = https://github.com/Seb920/autenticacion_ACTIVIDAD_PARTE_1.git
+[submodule "ACTIVIDAD_PARTE2"]
+	path = ACTIVIDAD_PARTE2
+	url = https://github.com/Seb920/autentificacion_ACTIVIDAD_PARTE2.git
